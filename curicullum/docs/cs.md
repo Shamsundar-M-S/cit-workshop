@@ -1,4 +1,5 @@
-# B.tech CSE
-## 1st Year
-### 1st sem
-- Profesional English 
+# B TECH CSE
+## FIRST YEAR
+### SEMESTER 1
+
+* PRO LINKED KIST BY MIHIRA
