@@ -1,4 +1,5 @@
 # Textile Chemistry 
+## Semester 1
 1. HS3151 Professional English - I
 2. MA3151 Matrices and Calculus
 3. PH3151 Engineering Physics
